@@ -1,0 +1,11 @@
+﻿  SharedPCH.Engine.ShadowErrors.cpp
+E:\projects\ObstacleCourse\Intermediate\Build\Win64\ObstacleCourseEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h(361,10): fatal  error C1083: Cannot open include file: 'Runtime/Engine/Public/EngineSharedPCH.h': No such file or directory
+  MovingPlatform.gen.cpp
+E:\projects\ObstacleCourse\intermediate\build\win64\unrealeditor\inc\obstaclecourse\MovingPlatform.gen.cpp(7,10): fatal  error C1083: Cannot open include file: 'UObject/GeneratedCppIncludes.h': No such file or directory
+  ObstacleCourse.init.gen.cpp
+E:\projects\ObstacleCourse\intermediate\build\win64\unrealeditor\inc\obstaclecourse\ObstacleCourse.init.gen.cpp(7,10): fatal  error C1083: Cannot open include file: 'UObject/GeneratedCppIncludes.h': No such file or directory
+  MovingPlatform.cpp
+E:\projects\ObstacleCourse\source\obstaclecourse\MovingPlatform.h(5,10): fatal  error C1083: Cannot open include file: 'CoreMinimal.h': No such file or directory
+  ObstacleCourse.cpp
+E:\projects\ObstacleCourse\source\obstaclecourse\ObstacleCourse.h(5,10): fatal  error C1083: Cannot open include file: 'CoreMinimal.h': No such file or directory
+  Generating Code...

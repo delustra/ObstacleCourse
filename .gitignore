@@ -48,6 +48,8 @@ SourceArt/**/*.tga
 
 # Builds
 Build/*
+Binaries/*
+Binaries/*/
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
@@ -66,3 +68,7 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Imported Content
+Content/*
+Content/LearningKit_Games/*
